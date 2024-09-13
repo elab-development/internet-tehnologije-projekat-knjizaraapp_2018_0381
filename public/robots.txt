@@ -1,3 +1,6 @@
+<<<<<<< HEAD
 # https://www.robotstxt.org/robotstxt.html
+=======
+>>>>>>> laravel-main
 User-agent: *
 Disallow:

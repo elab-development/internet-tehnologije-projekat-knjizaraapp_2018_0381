@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "bookstore-app",
   "version": "0.1.0",
   "private": true,
@@ -49,4 +50,17 @@
       "last 1 safari version"
     ]
   }
+=======
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build"
+    },
+    "devDependencies": {
+        "axios": "^1.7.4",
+        "laravel-vite-plugin": "^1.0",
+        "vite": "^5.0"
+    }
+>>>>>>> laravel-main
 }
