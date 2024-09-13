@@ -1,0 +1,6 @@
+[submodule "iteh-react-drugi-domaci"]
+	path = iteh-react-drugi-domaci
+	url = https://github.com/jevtovicc/iteh-react-drugi-domaci
+[submodule "iteh-laravel-domaci"]
+	path = iteh-laravel-domaci
+	url = https://github.com/jevtovicc/iteh-laravel-domaci
